@@ -1,0 +1,1048 @@
+[
+    {
+        "index": 1,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 2,
+        "explanation": {
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 5,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 8,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the bird, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 13,
+        "explanation": {
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 23,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The frog looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Unrealistic specular highlights": "The frog shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 24,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 27,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The airplane looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 28,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 29,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 30,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 31,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 32,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 33,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 34,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 36,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 37,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 38,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The frog looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 39,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 45,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the deer exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 46,
+        "explanation": {
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical."
+        }
+    },
+    {
+        "index": 47,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 49,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 50,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 51,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned bilateral elements in animal faces": "mouth of the dog, are misaligned or asymmetrical.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 54,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the truck, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the truck's door appear offset from their usual positions as in corresponding real truck"
+        }
+    },
+    {
+        "index": 55,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The truck looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 57,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the cat, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical."
+        }
+    },
+    {
+        "index": 58,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The frog looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 60,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the ship, disrupting natural lighting.",
+            "Unrealistic specular highlights": "The ship shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image."
+        }
+    },
+    {
+        "index": 61,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 62,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 64,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 67,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The horse looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the horse, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 69,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 70,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes."
+        }
+    },
+    {
+        "index": 71,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The deer looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 72,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 75,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the deer, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Unrealistic specular highlights": "The deer shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image."
+        }
+    },
+    {
+        "index": 76,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the airplane, disrupting natural lighting.",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 84,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 88,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The horse looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 90,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's wing appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 91,
+        "explanation": {
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical."
+        }
+    },
+    {
+        "index": 93,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 94,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Floating or disconnected components": "Parts of the horse appear to float unnaturally.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 98,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's headlights appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 99,
+        "explanation": {
+            "Misaligned body panels": "the car's headlights appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 101,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 102,
+        "explanation": {
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 104,
+        "explanation": {
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the horse are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 105,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the deer are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 108,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the deer exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 110,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the ship's NULL appear offset from their usual positions as in corresponding real ship",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 113,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 117,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 118,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 119,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The deer looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the deer, disrupting natural lighting.",
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible."
+        }
+    },
+    {
+        "index": 122,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the bird, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 123,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 128,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the deer exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 129,
+        "explanation": {
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes."
+        }
+    },
+    {
+        "index": 130,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The cat looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 133,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the airplane, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 137,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 140,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 142,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 143,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 144,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 146,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The dog looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 150,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 151,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 152,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 153,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The deer looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 156,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 157,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 159,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the deer exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 160,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 162,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 166,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 167,
+        "explanation": {
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 168,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 169,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 170,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the airplane, disrupting natural lighting.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 171,
+        "explanation": {
+            "Misaligned body panels": "the car's headlights appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 175,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 176,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's headlights appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 177,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 178,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 181,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 182,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The frog looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 185,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 190,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 191,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The frog looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 193,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the airplane, disrupting natural lighting.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 194,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the truck, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 195,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the car, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's headlights appear offset from their usual positions as in corresponding real car"
+        }
+    },
+    {
+        "index": 199,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The bird looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 202,
+        "explanation": {
+            "Anatomically impossible joint configurations": "The horse joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the horse exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic."
+        }
+    },
+    {
+        "index": 205,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The deer looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the deer, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the deer are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 206,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 207,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces"
+        }
+    },
+    {
+        "index": 208,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 210,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The car looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Unrealistic specular highlights": "The car shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image."
+        }
+    },
+    {
+        "index": 211,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 213,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 215,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the ship, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the ship's NULL appear offset from their usual positions as in corresponding real ship"
+        }
+    },
+    {
+        "index": 216,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the deer are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 217,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The ship looks artificial amidst the unnatural lighting gradient visible in the background."
+        }
+    },
+    {
+        "index": 220,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 222,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The deer looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the deer, disrupting natural lighting.",
+            "Anatomically impossible joint configurations": "The deer joints bend in directions that are physically impossible.",
+            "Scale inconsistencies within single objects": "Certain parts of the deer exhibit unnatural size proportions, which disrupt the overall balance and make the design appear less realistic.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 223,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned bilateral elements in animal faces": "mouth of the dog, are misaligned or asymmetrical."
+        }
+    },
+    {
+        "index": 224,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The dog looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the dog, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Unrealistic specular highlights": "The dog shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image.",
+            "Misshapen ears or appendages": "The dog's ears have distorted or unusual shapes.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 225,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 232,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 237,
+        "explanation": {
+            "Misaligned body panels": "the ship's NULL appear offset from their usual positions as in corresponding real ship",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 238,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the horse are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 239,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 240,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the deer, disrupting natural lighting.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the deer are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 245,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the horse, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 250,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 253,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the cat, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 256,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 257,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the dog, disrupting natural lighting.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 261,
+        "explanation": {
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the dog are not easily seperatable, caused due to blurriness in the fine details of the face"
+        }
+    },
+    {
+        "index": 268,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misaligned body panels": "the truck's rear view mirror appear offset from their usual positions as in corresponding real truck"
+        }
+    },
+    {
+        "index": 272,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the airplane, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Unrealistic specular highlights": "The airplane shines on one side of its body, despite no direct light being incident on that side, which shows artificial nature of the image.",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 273,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Implausible aerodynamic structures": "The airplane's wings and other components are not aerodynamically viable, unlike those of a real aircraft.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 276,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the bird, disrupting natural lighting.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 277,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the dog, disrupting natural lighting."
+        }
+    },
+    {
+        "index": 278,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes.",
+            "Blurred boundaries in fine details": "The eyes, nose and mouth of the horse are not easily seperatable, caused due to blurriness in the fine details of the face",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 280,
+        "explanation": {
+            "Misaligned bilateral elements in animal faces": "mouth of the cat, are misaligned or asymmetrical."
+        }
+    },
+    {
+        "index": 281,
+        "explanation": {
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes."
+        }
+    },
+    {
+        "index": 283,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirro appear offset from their usual positions as in corresponding real car",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 284,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the frog, disrupting natural lighting.",
+            "Texture repetition patterns": "Identical patterns appear unnaturally repeated on surfaces",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 286,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 287,
+        "explanation": {
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane.",
+            "Abruptly cut off objects": "Parts of the airplane are visibly truncated, as if cropped."
+        }
+    },
+    {
+        "index": 289,
+        "explanation": {
+            "Unnatural Lighting Gradients": "The airplane looks artificial amidst the unnatural lighting gradient visible in the background.",
+            "Misaligned body panels": "the airplane's engine appear offset from their usual positions as in corresponding real airplane",
+            "Inconsistent scale of mechanical parts": "engines of the airplane appears at incorrect scales relative to the rest of the airplane."
+        }
+    },
+    {
+        "index": 293,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the bird, disrupting natural lighting.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 294,
+        "explanation": {
+            "Glow or light bleed around object boundaries": "Bright halos appear around the boundaries of the horse, disrupting natural lighting.",
+            "Misshapen ears or appendages": "The horse's ears have distorted or unusual shapes.",
+            "Artificial smoothness": "The background exhibits a high degree of smoothing with minimal gradients."
+        }
+    },
+    {
+        "index": 299,
+        "explanation": {
+            "Misaligned body panels": "the car's rear view mirror appear offset from their usual positions as in corresponding real car"
+        }
+    }
+]
