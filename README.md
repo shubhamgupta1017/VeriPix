@@ -1,5 +1,5 @@
 
-# Adobe Mid Prep PS - Team 84 Submission
+# Adobe Mid Prep PS - Submission
 
 This contains the codebase for our submission to the **Adobe Mid Prep PS Competition**. The project focuses on **image classification** and **artifact detection**, leveraging advanced techniques in super-resolution, classification, and interpretability.
 
